@@ -7,7 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1o7UkOocLZGkLIPXFDUsHkhOZKuE9qmvT
 """
 
-!pip install opencv-python-headless matplotlib fer tensorflow mtcnn
+pip install opencv-python-headless matplotlib fer tensorflow mtcnn
 
 """# **Emotion Detection in Images**"""
 
